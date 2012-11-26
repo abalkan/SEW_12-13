@@ -1,3 +1,4 @@
 SEW_12-13
 =========
-Arif Balkan 3CHIT/Informationstechnology
+Learning to use git are:
+Arif Balkan 3CHIT/TGM
